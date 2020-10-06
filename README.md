@@ -1,3 +1,7 @@
 # RESUME
-# HELLO
-# Verson 2.2.0
+## This is my Web Resume 
+## Stack
+  * React 
+  * material-ui
+
+Version 2019 
